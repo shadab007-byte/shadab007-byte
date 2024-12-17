@@ -29,6 +29,10 @@ I’m a passionate **M.Tech student at IIT Madras** specializing in **Industrial
 - Developed a machine learning pipeline using **Naive Bayes** and **Decision Tree algorithms** to classify messages as spam or ham.  
 - Analyzed and visualized feature distributions using **Matplotlib** and **Seaborn**.
 
+### 🔹 **Credit EDA Project**  
+- Currently working on an exploratory data analysis (EDA) project for **credit data**.  
+- Applying data wrangling, visualization, and statistical analysis to uncover insights and prepare data for predictive modeling.
+
 ---
 
 ## 🏆 **Achievements**
@@ -40,7 +44,8 @@ I’m a passionate **M.Tech student at IIT Madras** specializing in **Industrial
 ## 📊 **What I’m Currently Working On**
 - Enhancing numerical simulations for scientific applications.  
 - Exploring **Machine Learning Pipelines** and **NLP-based Solutions** for real-world problems.  
-- Bridging mathematical models with efficient computing for impactful results.
+- Bridging mathematical models with efficient computing for impactful results.  
+- **Credit EDA project**: Analyzing and visualizing financial data to build insights.
 
 ---
 
