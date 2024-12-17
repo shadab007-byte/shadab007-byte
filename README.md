@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Mohd Shadab</h1>
+<h3 align="center">M.Tech @ IIT Madras | Machine Learning | NLP | Scientific Computing</h3>
 
-<!--
-**shadab007-byte/shadab007-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 **Welcome to my GitHub!**  
+I’m a passionate **M.Tech student at IIT Madras** specializing in **Industrial Mathematics and Scientific Computing**. I enjoy solving real-world problems with **Machine Learning**, **NLP**, and advanced **Mathematical Modeling** techniques. My work focuses on building efficient, data-driven solutions that bridge mathematics, technology, and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 **Skills & Expertise**
+- 🧑‍💻 **Programming Languages:** Python | C++ | SQL  
+- 🛠 **Libraries & Tools:** TensorFlow | Scikit-learn | Pandas | NumPy | Matplotlib | MATLAB | LaTeX  
+- 🧠 **Core Strengths:**  
+   - Machine Learning & Natural Language Processing  
+   - Numerical Simulations & Scientific Computing  
+   - Mathematical Modeling & Data Visualization  
+   - Object-Oriented Programming  
+
+---
+
+## 🛠️ **Projects**
+
+### 🔹 **Hate Speech Detection (NLP)**  
+- Built a high-accuracy text classification model using **Logistic Regression** and **SVM** achieving **85% accuracy**.  
+- Leveraged advanced **NLP preprocessing** techniques like tokenization, stemming, and vectorization for optimal performance.
+
+### 🔹 **SMS Spam Detection System**  
+- Developed a machine learning pipeline using **Naive Bayes** and **Decision Tree algorithms** to classify messages as spam or ham.  
+- Analyzed and visualized feature distributions using **Matplotlib** and **Seaborn**.
+
+---
+
+## 🏆 **Achievements**
+- 🎯 **GATE Qualified** (Graduate Aptitude Test in Engineering)  
+- 🎯 **IIT JAM Qualified** (Joint Admission Test for M.Sc.)
+
+---
+
+## 📊 **What I’m Currently Working On**
+- Enhancing numerical simulations for scientific applications.  
+- Exploring **Machine Learning Pipelines** and **NLP-based Solutions** for real-world problems.  
+- Bridging mathematical models with efficient computing for impactful results.
+
+---
+
+## 🤝 **Let’s Connect**
+I’m always open to collaboration, learning, and exciting opportunities. If you’re passionate about **data science**, **machine learning**, or **scientific computing**, let’s connect and build something great together!  
+
+🔗 **LinkedIn:** [Mohd Shadab](https://www.linkedin.com/in/mohd-shadab-8312042aa/)  
+📧 **Email:** [shadabkhanmnw349@gmail.com](mailto:shadabkhanmnw349@gmail.com)  
+
+---
+
+<h3 align="center">✨ Thank you for visiting my profile! Let's innovate together 🚀</h3>
