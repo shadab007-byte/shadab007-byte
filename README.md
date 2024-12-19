@@ -27,7 +27,7 @@ I’m a passionate **M.Tech student at IIT Madras** specializing in **Industrial
 
 ### 🔹 **SMS Spam Detection System**  
 - Developed a machine learning pipeline using **Naive Bayes** and **Decision Tree algorithms** to classify messages as spam or ham.  
-- Analyzed and visualized feature distributions using **Matplotlib** and **Seaborn** achieving **94% accuracy.
+- Analyzed and visualized feature distributions using **Matplotlib** and **Seaborn** achieving **94% accuracy**.
 
 ### 🔹 **Credit EDA Project**  
 - Currently working on an exploratory data analysis (EDA) project for **credit data**.  
