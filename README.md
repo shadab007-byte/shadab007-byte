@@ -22,12 +22,12 @@ I’m a passionate **M.Tech student at IIT Madras** specializing in **Industrial
 ## 🛠️ **Projects**
 
 ### 🔹 **Hate Speech Detection (NLP)**  
-- Built a high-accuracy text classification model using **Logistic Regression** and **SVM** achieving **85% accuracy**.  
+- Built a high-accuracy text classification model using **Logistic Regression** and **SVM** achieving **88% accuracy**.  
 - Leveraged advanced **NLP preprocessing** techniques like tokenization, stemming, and vectorization for optimal performance.
 
 ### 🔹 **SMS Spam Detection System**  
 - Developed a machine learning pipeline using **Naive Bayes** and **Decision Tree algorithms** to classify messages as spam or ham.  
-- Analyzed and visualized feature distributions using **Matplotlib** and **Seaborn**.
+- Analyzed and visualized feature distributions using **Matplotlib** and **Seaborn** achieving **94% accuracy.
 
 ### 🔹 **Credit EDA Project**  
 - Currently working on an exploratory data analysis (EDA) project for **credit data**.  
