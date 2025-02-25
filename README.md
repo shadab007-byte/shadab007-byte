@@ -4,57 +4,79 @@
 ---
 
 🌟 **Welcome to my GitHub!**  
-I’m a passionate **M.Tech student at IIT Madras** specializing in **Industrial Mathematics and Scientific Computing**. I enjoy solving real-world problems with **Machine Learning**, **NLP**, and advanced **Mathematical Modeling** techniques. My work focuses on building efficient, data-driven solutions that bridge mathematics, technology, and innovation.
+I’m a dedicated **M.Tech student at IIT Madras**, specializing in **Industrial Mathematics and Scientific Computing** with a current CGPA of **8.39**. My academic journey and professional experiences have equipped me with strong skills in **Machine Learning**, **Natural Language Processing (NLP)**, and **Data Analysis**. I am passionate about solving real-world problems by leveraging mathematical modeling, advanced computing techniques, and cutting-edge technologies.
 
 ---
 
 ## 🚀 **Skills & Expertise**
 - 🧑‍💻 **Programming Languages:** Python | C++ | SQL  
-- 🛠 **Libraries & Tools:** TensorFlow | Scikit-learn | Pandas | NumPy | Matplotlib | MATLAB | LaTeX  
+- 🛠 **Frameworks & Libraries:** Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn | NLTK  
+- 📊 **Analytics & Visualization Tools:** Jupyter Notebook | MATLAB  
+- 🗄️ **Databases:** MySQL | SQLite  
+- 🛠️ **Tools & Platforms:** LaTeX | Google Colab | Overleaf  
 - 🧠 **Core Strengths:**  
    - Machine Learning & Natural Language Processing  
    - Numerical Simulations & Scientific Computing  
    - Mathematical Modeling & Data Visualization  
-   - Object-Oriented Programming  
+   - Relational Databases & SQL Queries  
 
 ---
 
 ## 🛠️ **Projects**
 
-### 🔹 **Hate Speech Detection (NLP)**  
-- Built a high-accuracy text classification model using **Logistic Regression** and **SVM** achieving **88% accuracy**.  
-- Leveraged advanced **NLP preprocessing** techniques like tokenization, stemming, and vectorization for optimal performance.
+### 🔹 **Image Processing Using DFT and FFT**  
+- Designed and implemented frequency domain image filtering techniques (**Gaussian**, **Butterworth**, and **Ideal filters**) to enhance image quality and reduce noise.  
+- Analyzed the impact of zero-padding on frequency resolution using 2D Discrete Fourier Transform (DFT) and visualized magnitude spectra in both 2D and 3D.  
+- **Technology:** MATLAB | Image Processing Toolbox | FFT Analysis  
+
+### 🔹 **Hate Speech Detection on Twitter Data**  
+- Built a machine learning model to classify tweets as hate speech or non-hate speech with an accuracy of **88%**.  
+- Applied NLP techniques such as tokenization, stemming, and vectorization for feature extraction.  
+- **Technology:** Python | Scikit-learn | NLTK | NumPy | Pandas  
 
 ### 🔹 **SMS Spam Detection System**  
-- Developed a machine learning pipeline using **Naive Bayes** and **Decision Tree algorithms** to classify messages as spam or ham.  
-- Analyzed and visualized feature distributions using **Matplotlib** and **Seaborn** achieving **94% accuracy**.
+- Developed a machine learning pipeline to classify SMS messages as spam or non-spam using NLP techniques.  
+- Preprocessed text data and applied classification algorithms like Naive Bayes for prediction, achieving high accuracy.  
+- **Technology:** Python | Scikit-learn | NLTK  
 
-### 🔹 **Credit EDA Project**  
-- Currently working on an exploratory data analysis (EDA) project for **credit data**.  
-- Applying data wrangling, visualization, and statistical analysis to uncover insights and prepare data for predictive modeling.
+### 🔹 **SQL-Based Student Management System**  
+- Designed and implemented a relational database to manage student, course, and enrollment data.  
+- Performed SQL queries for data retrieval, filtering, joins, and updates to automate student record management.  
+- **Technology:** SQLite | Python  
+
+### 🔹 **Credit EDA for Risk Assessment**  
+- Cleaned and preprocessed large datasets to ensure data quality and consistency for analysis.  
+- Delivered actionable insights through advanced data visualization techniques using Python libraries such as Pandas, Matplotlib, and Seaborn.  
+- **Technology:** Python | Pandas | Matplotlib | Seaborn  
 
 ---
 
 ## 🏆 **Achievements**
-- 🎯 **GATE Qualified** (Graduate Aptitude Test in Engineering)  
-- 🎯 **IIT JAM Qualified** (Joint Admission Test for M.Sc.)
+- 🎯 Qualified in **GATE (Graduate Aptitude Test in Engineering)**.  
+- 🎯 Qualified in **IIT JAM (Joint Admission Test for M.Sc.)**.  
+- 🌟 5-Star Problem Solving Badge on HackerRank (**HackerRank Profile: ma24m015**).  
 
 ---
 
 ## 📊 **What I’m Currently Working On**
-- Enhancing numerical simulations for scientific applications.  
-- Exploring **Machine Learning Pipelines** and **NLP-based Solutions** for real-world problems.  
-- Bridging mathematical models with efficient computing for impactful results.  
-- **Credit EDA project**: Analyzing and visualizing financial data to build insights.
+- Enhancing numerical simulations for scientific applications as part of my M.Tech coursework at IIT Madras.  
+- Exploring advanced machine learning pipelines for NLP-based solutions to real-world challenges.  
+- Bridging mathematical models with efficient computing techniques for impactful results.  
+
+---
+
+## 📜 **Certifications**
+1. Supervised Machine Learning by Andrew Ng (Coursera)  
+2. Data Science Hybrid Certification by 1stop.ai  
 
 ---
 
 ## 🤝 **Let’s Connect**
-I’m always open to collaboration, learning, and exciting opportunities. If you’re passionate about **data science**, **machine learning**, or **scientific computing**, let’s connect and build something great together!  
+I’m always eager to collaborate on exciting projects in the fields of machine learning, NLP, scientific computing, or data science. Let’s connect to innovate together!  
 
-🔗 **LinkedIn:** [Mohd Shadab](https://www.linkedin.com/in/mohd-shadab-8312042aa/)  
-📧 **Email:** [shadabkhanmnw349@gmail.com](mailto:shadabkhanmnw349@gmail.com)  
+🔗 [**LinkedIn Profile: Mohd Shadab**](https://www.linkedin.com/in/mohd-shadab-8312042aa/)  
+📧 [**Email:** shadabkhanmnw349@gmail.com](mailto:shadabkhanmnw349@gmail.com)  
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my profile! Let's innovate together 🚀</h3>
+<h3 align="center">✨ Thank you for visiting my profile! Let's build something amazing together 🚀</h3>
