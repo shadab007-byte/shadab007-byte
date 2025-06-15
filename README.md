@@ -1,82 +1,87 @@
 <h1 align="center">👋 Hi, I'm Mohd Shadab</h1>
-<h3 align="center">M.Tech @ IIT Madras | Machine Learning | NLP | Scientific Computing</h3>
+<h3 align="center">M.Tech @ IIT Madras | Machine Learning | Scientific Computing | Deep Learning | NLP</h3>
 
 ---
 
 🌟 **Welcome to my GitHub!**  
-I’m a dedicated **M.Tech student at IIT Madras**, specializing in **Industrial Mathematics and Scientific Computing** with a current CGPA of **8.39**. My academic journey and professional experiences have equipped me with strong skills in **Machine Learning**, **Natural Language Processing (NLP)**, and **Data Analysis**. I am passionate about solving real-world problems by leveraging mathematical modeling, advanced computing techniques, and cutting-edge technologies.
+I’m an M.Tech student at **IIT Madras**, specializing in **Industrial Mathematics and Scientific Computing** with a strong academic foundation (CGPA: **8.35**) and national-level ranks: **CSIR-NET JRF (AIR 66)**, **GATE (AIR 320)**, and **IIT JAM (AIR 1050)**. My interests lie in combining mathematics, machine learning, and computing to solve real-world problems.
 
 ---
 
-## 🚀 **Skills & Expertise**
-- 🧑‍💻 **Programming Languages:** Python | C++ | SQL  
-- 🛠 **Frameworks & Libraries:** Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn | NLTK  
-- 📊 **Analytics & Visualization Tools:** Jupyter Notebook | MATLAB  
-- 🗄️ **Databases:** MySQL | SQLite  
-- 🛠️ **Tools & Platforms:** LaTeX | Google Colab | Overleaf  
-- 🧠 **Core Strengths:**  
-   - Machine Learning & Natural Language Processing  
-   - Numerical Simulations & Scientific Computing  
-   - Mathematical Modeling & Data Visualization  
-   - Relational Databases & SQL Queries  
+## 🚀 Skills & Tools
+
+- 🧑‍💻 **Programming:** Python | C++ | SQL  
+- 🧠 **Libraries/Frameworks:** TensorFlow | Keras | Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn | NLTK | GANs | CNN  
+- 📊 **Tools & Platforms:** Google Colab | Jupyter | MATLAB | LaTeX | Overleaf  
+- 💡 **Strengths:**  
+   - Machine Learning & Deep Learning  
+   - Natural Language Processing (NLP)  
+   - Scientific Computing & Numerical Methods  
+   - Mathematical Modeling & Data Analysis  
 
 ---
 
-## 🛠️ **Projects**
+## 🛠️ Featured Projects
 
-### 🔹 **Image Processing Using DFT and FFT**  
-- Designed and implemented frequency domain image filtering techniques (**Gaussian**, **Butterworth**, and **Ideal filters**) to enhance image quality and reduce noise.  
-- Analyzed the impact of zero-padding on frequency resolution using 2D Discrete Fourier Transform (DFT) and visualized magnitude spectra in both 2D and 3D.  
-- **Technology:** MATLAB | Image Processing Toolbox | FFT Analysis  
+### 🔹 [Handwritten Digit Generation using DCGAN](https://github.com/shadab007-byte/DCGAN-Handwritten-Digit-Generation)  
+- Trained a Deep Convolutional GAN on MNIST to generate realistic handwritten digits (28×28 grayscale).
+- Used fixed noise seeds for reproducible evaluation and visualized generator progress across epochs.  
+- **Tech:** Python | TensorFlow | DCGAN | Matplotlib
 
-### 🔹 **Hate Speech Detection on Twitter Data**  
-- Built a machine learning model to classify tweets as hate speech or non-hate speech with an accuracy of **88%**.  
-- Applied NLP techniques such as tokenization, stemming, and vectorization for feature extraction.  
-- **Technology:** Python | Scikit-learn | NLTK | NumPy | Pandas  
+### 🔹 [Brain Tumor Classification Using CNN + Transfer Learning](https://github.com/shadab007-byte/Brain_Tumor_Detection_VGG16)  
+- Achieved 95% test accuracy using VGG16 with transfer learning on MRI datasets.
+- Included data augmentation, visualization, and confusion matrix for robust medical diagnosis.  
+- **Tech:** Python | TensorFlow | VGG16 | CNN
 
-### 🔹 **SMS Spam Detection System**  
-- Developed a machine learning pipeline to classify SMS messages as spam or non-spam using NLP techniques.  
-- Preprocessed text data and applied classification algorithms like Naive Bayes for prediction, achieving high accuracy.  
-- **Technology:** Python | Scikit-learn | NLTK  
+### 🔹 [Comparison of SVM Kernels and Fractal Kernel for Credit Card Fraud Detection](https://github.com/shadab007-byte/Comparison-of-SVM-Kernels-and-Fractal-Kernel-for-Credit-Card-Fraud-Detection-using-GANs)  
+- Developed a novel **Fractal RBF Kernel** and benchmarked it against standard SVM kernels for fraud detection.
+- Addressed class imbalance using **CTGAN** and evaluated with ROC-AUC, F1-score.  
+- **Tech:** Python | SVM | GANs | CTGAN | NumPy
 
-### 🔹 **SQL-Based Student Management System**  
-- Designed and implemented a relational database to manage student, course, and enrollment data.  
-- Performed SQL queries for data retrieval, filtering, joins, and updates to automate student record management.  
-- **Technology:** SQLite | Python  
-
-### 🔹 **Credit EDA for Risk Assessment**  
-- Cleaned and preprocessed large datasets to ensure data quality and consistency for analysis.  
-- Delivered actionable insights through advanced data visualization techniques using Python libraries such as Pandas, Matplotlib, and Seaborn.  
-- **Technology:** Python | Pandas | Matplotlib | Seaborn  
+### 🔹 Image Processing using DFT and FFT  
+- Implemented **Gaussian**, **Butterworth**, and **Ideal filters** in the frequency domain to enhance image quality.
+- Visualized 2D and 3D spectra using FFT without zero-padding to study frequency resolution.  
+- **Tech:** MATLAB | Image Processing Toolbox
 
 ---
 
-## 🏆 **Achievements**
-- 🎯 Qualified in **GATE (Graduate Aptitude Test in Engineering)**.  
-- 🎯 Qualified in **IIT JAM (Joint Admission Test for M.Sc.)**.  
-- 🌟 5-Star Problem Solving Badge on HackerRank (**HackerRank Profile: ma24m015**).  
+## 🏆 Achievements
+
+- 🥇 CSIR NET JRF (AIR 66), GATE (AIR 320), IIT JAM (AIR 1050)
+- 🌟 5-Star Problem Solving Badge on HackerRank (@ma24m015)
 
 ---
 
-## 📊 **What I’m Currently Working On**
-- Enhancing numerical simulations for scientific applications as part of my M.Tech coursework at IIT Madras.  
-- Exploring advanced machine learning pipelines for NLP-based solutions to real-world challenges.  
-- Bridging mathematical models with efficient computing techniques for impactful results.  
+## 📜 Certifications
+
+1. **Supervised Machine Learning** – Andrew Ng (Coursera)  
+2. **Data Science Hybrid Certification** – 1stop.ai  
+3. **Advanced Learning Algorithms** – Coursera
 
 ---
 
-## 📜 **Certifications**
-1. Supervised Machine Learning by Andrew Ng (Coursera)  
-2. Data Science Hybrid Certification by 1stop.ai  
+## 📚 Academic Background
+
+- 🎓 M.Tech in Industrial Mathematics & Scientific Computing, IIT Madras (2024–2026)  
+- 🎓 M.Sc. in Mathematics, CCS University (2021–2023) – 86.9%  
+- 🎓 B.Sc. in Mathematics, CCS University (2018–2021) – 74.15%
 
 ---
 
-## 🤝 **Let’s Connect**
-I’m always eager to collaborate on exciting projects in the fields of machine learning, NLP, scientific computing, or data science. Let’s connect to innovate together!  
+## 📊 What I’m Currently Working On
 
-🔗 [**LinkedIn Profile: Mohd Shadab**](https://www.linkedin.com/in/mohd-shadab-8312042aa/)  
-📧 [**Email:** shadabkhanmnw349@gmail.com](mailto:shadabkhanmnw349@gmail.com)  
+- Exploring deep generative models and numerical simulations.
+- Applying machine learning to scientific data and medical diagnostics.
+- Developing scalable solutions with mathematical rigor and real-world impact.
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my profile! Let's build something amazing together 🚀</h3>
+## 🤝 Let’s Connect!
+
+📧 [Email](mailto:shadabkhanmnw349@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohd-shadab-8312042aa/)  
+💻 [GitHub](https://github.com/shadab007-byte)
+
+---
+
+<h3 align="center">✨ Thanks for stopping by! Let's build something impactful 🚀</h3>
