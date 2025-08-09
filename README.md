@@ -78,6 +78,7 @@ I’m an M.Tech student at **IIT Madras**, specializing in **Industrial Mathemat
 
 ## 🤝 Let’s Connect!
 📞 [**+91 73106 74504**](tel:+917310674504)
+
 📧 [Email](mailto:shadabkhanmnw349@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohd-shadab-8312042aa/)  
 💻 [GitHub](https://github.com/shadab007-byte)
